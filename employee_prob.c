@@ -64,7 +64,7 @@ for(i=0;i<n;i++)
 cout<<"do you want display";
 for(i=0;i<n;i++)
 {
-    mem[i].display();
+    memo[i].display();
 }
 getch();
 }
