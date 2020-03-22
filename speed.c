@@ -25,7 +25,7 @@ class timea
 };
 void speed(dista d,timea m)
 {
-	cout<<"\nSpeed="<<d.km/m.min;
+	cout<<"\nSpeeed="<<d.km/m.min;
 }
 int main()
 {
